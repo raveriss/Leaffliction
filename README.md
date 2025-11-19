@@ -228,7 +228,6 @@ image originale (gauche), image transformée (droite)
 → Classe prédite : **peach_bacterial_spot**.*
 
 Affiche :
-
 - image originale  
 - transformation  
 - prédiction
