@@ -107,6 +107,11 @@ Exemple d’exécution :
 poetry run python scripts/Distribution.py ./Apple
 ```
 
+![Répartition du dataset](docs/images/dataset_distribution_apple.png)
+
+*Répartition des images par catégories pour la plante **Apple**.  
+Utilisé pour analyser l’équilibre du dataset avant augmentation.*
+
 ---
 
 ## 🔄 2. Data Augmentation — `Augmentation.py`
@@ -123,6 +128,10 @@ Exemple :
 poetry run python scripts/Augmentation.py ./Apple/apple_healthy/image.jpg
 ```
 
+![Exemples de data augmentation](docs/images/data_augmentation_examples_apple_healthy.png)
+
+*Exemples des 6 augmentations appliquées (Flip, Rotate, Skew, Shear, Crop, Distortion)  
+sur une feuille healthy de la classe **apple_healthy**.*
 ---
 
 ## 🎨 3. Image Transformation — `Transformation.py`
@@ -141,6 +150,11 @@ Exemples :
 ```bash
 poetry run python scripts/Transformation.py ./Apple/apple_healthy/image.jpg
 ```
+![Pipeline de transformations](docs/images/transform_pipeline_overview.png)
+
+*Pipeline des transformations appliquées : original, Gaussian blur, mask, ROI objects,  
+analyse d’objet, pseudolandmarks et histogramme de couleurs.*
+
 
 Batch mode :
 
@@ -172,6 +186,11 @@ poetry run python scripts/train.py ./Apple
 ```bash
 poetry run python scripts/predict.py ./Apple/apple_healthy/image.jpg
 ```
+![Exemple de prédiction DL](docs/images/dl_classification_prediction_peach_bacterial_spot.png)
+
+*Exemple complet du script `predict.py` :  
+image originale (gauche), image transformée (droite)  
+→ Classe prédite : **peach_bacterial_spot**.*
 
 Affiche :
 
