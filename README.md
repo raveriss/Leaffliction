@@ -2,17 +2,17 @@
 
 <div align="center">
   
-![License](https://img.shields.io/github/license/raveriss/Leaffliction)
-![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
-[![CI](https://github.com/raveriss/Leaffliction/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/raveriss/Leaffliction/actions)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)
+[![CI](https://img.shields.io/github/actions/workflow/status/raveriss/Total_Perspective_Vortex/ci.yml?branch=main&logo=githubactions&logoColor=white)](https://github.com/raveriss/Total_Perspective_Vortex/actions/workflows/ci.yml)
 [![Coverage](https://codecov.io/gh/raveriss/Leaffliction/branch/main/graph/badge.svg)](https://codecov.io/gh/raveriss/Leaffliction)
 ![Norme 42 (flake8)](https://img.shields.io/badge/norm-42%20flake8-blue.svg)
-[![Lint](https://img.shields.io/badge/lint-ruff%20✔-yellow.svg)]()
-[![Typing](https://img.shields.io/badge/mypy-checked-purple.svg)]()
-[![Mutation](https://img.shields.io/badge/mutmut-≥90%25-orange.svg)]()
-[![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?label=pre--commit)]()
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)]()
-[![Security](https://img.shields.io/badge/security-bandit-green.svg)]()
+![lint](https://img.shields.io/badge/lint-ruff-46A35E?logo=ruff&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-checked-6f42c1?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMgMTlWNWgzLjJMMTIgMTIuNCAxNy44IDVIMjF2MTRoLTNWMTAuMWwtNC44IDYuMUgxMC44TDYgMTAuMVYxOXoiLz48L3N2Zz4%3D)
+![Mutation](https://img.shields.io/badge/mutmut-%E2%89%A590%25-f08a24?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTcgNGM0IDIuNSA2IDUuNSAxMCA4Ii8%2BPHBhdGggZD0iTTE3IDRjLTQgMi41LTYgNS41LTEwIDgiLz48cGF0aCBkPSJNNyAyMGM0LTIuNSA2LTUuNSAxMC04Ii8%2BPHBhdGggZD0iTTE3IDIwYy00IDIuNS02LTUuNS0xMC04Ii8%2BPC9nPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik05IDdoNiIvPjxwYXRoIGQ9Ik04IDEyaDgiLz48cGF0aCBkPSJNOSAxN2g2Ii8%2BPC9nPjwvc3ZnPg%3D%3D)
+![pre-commit](https://img.shields.io/badge/pre--commit-enabled-FAB040?logo=precommit&logoColor=white)
+![black](https://img.shields.io/badge/code%20style-black-000000?logo=black&logoColor=white)
+![security](https://img.shields.io/badge/security-bandit-2ea44f?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTEyIDNsNiAyLjJWOWMwIDEuMi0uNyAyLjMtMS44IDIuOGwtNC4yIDIuMS00LjItMi4xQTMuMSAzLjEgMCAwIDEgNiA5VjUuMnoiLz48cGF0aCBkPSJNNy41IDkuMmMuOS0xLjMgMi41LTIuMiA0LjUtMi4yczMuNi45IDQuNSAyLjJjLS44IDEuMy0yLjQgMi4yLTQuNSAyLjJzLTMuNy0uOS00LjUtMi4yeiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOS4yIiByPSIxIi8%2BPGNpcmNsZSBjeD0iMTQiIGN5PSI5LjIiIHI9IjEiLz48cGF0aCBkPSJNMTEgMTMuNWgyVjE4aC0yeiIvPjxwYXRoIGQ9Ik05IDE3aDZ2Mkg5eiIvPjwvZz48L3N2Zz4%3D)
+![License](https://img.shields.io/github/license/raveriss/Total_Perspective_Vortex?logo=github&logoColor=white)
   
 </div>
 
