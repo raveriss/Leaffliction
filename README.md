@@ -13,7 +13,7 @@
   
 </div>
 
----
+##### Ce projet fait partie de mon [`🔗 PORTFOLIO`](https://raveriss.dev/) orienté **Data / IA / Software Engineering**
 
 # 📑 Table des matières
 
@@ -437,4 +437,5 @@ MIT License.
 **Rafael Verissimo**  
 Étudiant IA/Data — École 42 Paris  
 GitHub : https://github.com/raveriss  
-LinkedIn : https://www.linkedin.com/in/verissimo-rafael/
+LinkedIn : https://www.linkedin.com/in/verissimo-rafael/<br>
+Portfolio : https://raveriss.dev/
